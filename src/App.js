@@ -9,7 +9,7 @@ function App() {
         <div className="App">
             <h1 style={{fontSize: 22, color: 'green'}}>value = {state}</h1>
             <button
-                style={{background: 'white', color: "green", padding: 15}}
+                style={{background: 'gray', color: "green", padding: 15}}
                 onClick={increment}
             >
                 increment
